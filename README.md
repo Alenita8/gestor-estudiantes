@@ -14,4 +14,4 @@ como proyecto integrador de las sesiones 10–12.
 3. Abrir `index.html` en el navegador
 
 ## Autor
-Tu Nombre — Desarrollo de Frontend, INTECAP
+Andrea Alejandra Ramírez Figueroa — Desarrollo de Frontend, INTECAP
